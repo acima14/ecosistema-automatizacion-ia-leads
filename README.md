@@ -64,7 +64,7 @@ La documentación se encuentra organizada de acuerdo con los cinco criterios de 
 El sistema cuenta con una interfaz desarrollada en Airtable para monitorear los leads procesados, sus estados, prioridades asignadas por IA y las excepciones detectadas durante la ejecución.
 
 **Acceso en modo solo lectura:**
-https://airtable.com/invite/linviteId=invSGnn5o1fk5gqr4&inviteToken=d90697f317dd3903fddda9eac1d01f1f78ecf83129e024f7f20db24c4465e8c0&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+https://airtable.com/appy0np7Tx4kGzlQ3/shruikNDWnqzL7yPT
 
 ## Workflow n8n
 
@@ -117,7 +117,7 @@ El flujo incorpora:
 
 Demostración del funcionamiento completo del sistema:
 
-https://drive.google.com/file/d/1U8PEZBeIsD5yLfcrzPk3KG_loghJTPd9/view?usp=drive_link
+https://drive.google.com/file/d/1U8PEZBeIsD5yLfcrzPk3KG_loghJTPd9/view?usp=sharing
 
 ## Estructura del repositorio
 
